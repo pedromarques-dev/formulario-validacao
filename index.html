@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body onload="darBoasVindas()">
+    <main>
+        <div class="container">
+            <section class="duvidas">   
+                <h2 class="titulo-duvidas">FICOU COM DÚVIDA? NOS MANDE UMA MENSAGEM!</h2>
+                <p class="paragrafo-duvidas">caso tenha ficado com qualquer dúvida basta nos mandar uma mensagem e entraremos em contato em menos de 24h.</p>
+            </section>
+
+            <section class="formulario">
+                <form>
+                    <input type="text" name="nome" id="nome" placeholder="Nome completo">
+                    <p class="error">* Campo obrigatório</p>
+                    <br><br>
+                    
+                    <input type="email" name="email" id="email" placeholder="Email">
+                    <p class="error">* Campo obrigatório</p>
+                    <br><br>
+
+                    <input type="tel" name="telefone" id="telefone" placeholder="Telefone:(XX) 22222-1111" minmaxlength="15">
+                    <p class="error">* Campo obrigatório</p>
+                    <br><br>
+
+                    <textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="Envie uma mensagem" maxlength="320"></textarea>
+                    <p class="error">* Campo obrigatório</p>
+
+                    <div>
+                        <p class="campos-obrigatorios">
+                            <strong>
+                                * campos obrigatorios
+                            </strong>
+                        </p>
+                    </div>
+
+                    <div>
+                        <button type="button" onclick="validarFormulario()" id="botao">Enviar</button>
+                    </div>
+                
+                    </form>
+            </section>
+        </div>
+    </main>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+</html>
