@@ -1,6 +1,8 @@
 function darBoasVindas(){
+  setTimeout(() => {
     let nomeInformado = prompt('Qual o seu nome?')
     alert('Ola ' + nomeInformado + '. Seja bem-vindo ao nosso site.')
+  }, 0200);
 }
 
 //Pegar os elementos do input
