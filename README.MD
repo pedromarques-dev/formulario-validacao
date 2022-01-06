@@ -8,14 +8,25 @@
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Status](#status)
+   * [Planejamento dos projetos](#planejamento-dos-projetos)
    * [Objetivo](#objetivo)
    * [Curiosidades](#curiosidades)
-   * [Planejamento dos projetos](#planejamento-dos-projetos)
    * [Tecnologias](#tecnologias)
+   * [Acesse o site](#acesse-o-site)
 
 ## Status
  
   #### Formulario JS 🚀 Finalizado ✅
+  
+## Planejamento do Projeto
+
+O projeto foi dividido em 5 partes:
+  
+  * Esboço - Onde foi feito todo o layout ideal em um papel antes mesmo de começar a codar;
+  * Planejamento - Onde foi separada as funcionalidades principais e as extras a serem implementadas e o passo a passo para seguir; 
+  * Desenvolvimento - Onde foi feita toda estruturação do projeto desde o corpo do HTML, passando por toda estilização no CSS e o metodo usado para posicionar os elementos na tela, até incrementar todas as funcionalidades com o JavaScript ;
+  * Refatoração do código - Onde foi feita toda revisão do código, em busca de possíveis erros de identação, lógica ou repetição de código.
+  * Testes - Onde foi feito todos os testes possíveis englobando todos os erros e funcionalidades presentes no projeto.
       
 
 ## Objetivo
@@ -38,14 +49,14 @@
   * Formato de digitação do telefone;
   * Limite de caracteres nas mensagens.
 
-## Planejamento do Projeto
+## Tecnologias
 
-O projeto foi dividido em 5 partes:
-  
-  * Esboço - Onde foi feito todo o layout ideal em um papel antes mesmo de começar a codar;
-  * Planejamento - Onde foi separada as funcionalidades principais e as extras a serem implementadas e o passo a passo para seguir; 
-  * Desenvolvimento - Onde foi feita toda estruturação do projeto desde o corpo do HTML, passando por toda estilização no CSS e o metodo usado para posicionar os elementos na tela, até incrementar todas as funcionalidades com o JavaScript ;
-  * Refatoração do código - Onde foi feita toda revisão do código, em busca de possíveis erros de identação, lógica ou repetição de código.
-  * Testes - Onde foi feito todos os testes possíveis englobando todos os erros e funcionalidades presentes no projeto.
+ * HTML
+ * CSS
+ * JS
+ * GIT
 
 ## Acessando o site
+
+Para acessar o site, clique no link abaixo:
+<a href= "https://pedromarques-dev.github.io/formulario-validacao/" target= "_blank">Formulario com JS</a>
