@@ -1,16 +1,22 @@
 # Validação de Formulário com JavaScript
 
 ## Sobre
+  A ideia do projeto veio do curso Dev em Dobro. É uma etapa do curso onde você faz desafios de JS intermidário e aprimora seus conhecimentos na area. O projeto exige algumas boas metodologias utilizadas hoje em dia no mercado e te prepara bem para essa situação futuramente.
 
 ## Tabela do conteúdo
 
-  * [Sobre](#Sobre)
+   * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Objetivo](#objetivo)
-      * [Curiosidades](#curiosidades)
-      * [Planejamento dos projetos](#planejamento-dos-projetos)
    * [Status](#status)
+   * [Objetivo](#objetivo)
+   * [Curiosidades](#curiosidades)
+   * [Planejamento dos projetos](#planejamento-dos-projetos)
    * [Tecnologias](#tecnologias)
+
+## Status
+ 
+  #### Formulario JS 🚀 Finalizado ✅
+      
 
 ## Objetivo
 
