@@ -1,7 +1,7 @@
 # Validação de Formulário com JavaScript
 
 ## Sobre
-  A ideia do projeto veio do curso Dev em Dobro. É uma etapa do curso onde você faz desafios de JS intermidário e aprimora seus conhecimentos na area. O projeto exige algumas boas metodologias utilizadas hoje em dia no mercado e te prepara bem para essa situação futuramente.
+  A ideia do projeto veio do curso Dev em Dobro. É uma etapa do curso onde você faz desafios de JS intermediário e aprimora seus conhecimentos na area. O projeto exige algumas boas metodologias utilizadas hoje em dia no mercado e te prepara bem para essa situação futuramente.
 
 ## Tabela do conteúdo
 
